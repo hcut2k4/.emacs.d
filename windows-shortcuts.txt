@@ -1,0 +1,2 @@
+Emacs Client:	"C:\Program Files (x86)\emacs-24.5\bin\emacsclientw.exe" -c -n
+Emacs Server	"C:\Program Files (x86)\emacs-24.5\bin\runemacs.exe"
